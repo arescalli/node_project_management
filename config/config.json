@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "alessandro",
+    "password": null,
+    "database": "projectManagement_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "alessandro",
+    "password": null,
+    "database": "projectManagement_test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "alessandro",
+    "password": null,
+    "database": "projectManagement_test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
